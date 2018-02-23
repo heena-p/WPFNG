@@ -28,4 +28,5 @@
     End Set
   End Property
   'Hello
+  'hi
 End Class
