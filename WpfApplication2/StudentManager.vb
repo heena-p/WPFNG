@@ -18,8 +18,9 @@ Public Class StudentManager
           entity = New Student()
           entity.StudentId = Convert.ToInt32(rdr("Stu_Id"))
           entity.StudentName = Convert.ToString(rdr("Stu_Name"))
-          ret.Add(entity)
-        End While
+					ret.Add(entity)
+					'hELLO
+				End While
       End Using
 
     End Using
