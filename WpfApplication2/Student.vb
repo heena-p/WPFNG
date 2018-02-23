@@ -27,5 +27,5 @@
       End If
     End Set
   End Property
-
+  'Hello
 End Class
